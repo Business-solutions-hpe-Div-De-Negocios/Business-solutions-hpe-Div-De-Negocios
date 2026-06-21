@@ -27,4 +27,4 @@ Si te gusta lo que hago y quieres invitarme un café o apoyarme, puedes hacerlo 
  Please Copy  in your Wallet BTC only Thanks
 
 **Dirección BTC:** bc1q29emlu2xrdskk9asukck6a6n03d860ggyt7gpc 
-**LLave publica:**
+**LLave publica:** 0300386b34b89040115c599f4bcf743c5f2074371c032b22dd7fc7113a1a802712
