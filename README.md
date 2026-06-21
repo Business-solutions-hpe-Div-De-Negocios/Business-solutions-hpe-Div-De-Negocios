@@ -14,15 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ☕ ¡Apoya mi trabajo!
+ ## ¡Apoya mi trabajo!
 Si te gusta lo que hago y quieres invitarme un café o apoyarme, puedes hacerlo a través de Bitcoin (BTC).
 
-<img src="URL_DE_TU_IMAGEN_DEL_QR_AQUÍ">
+
 <img width="1080" height="519" alt="image" src="https://github.com/user-attachments/assets/0bd0c540-5ee2-4ad2-a7b0-b33174aab96d" />
 
 **Electrum Wallet** 
 
 **Bitcoin Account address**
+
 **Please Copy  **
+
 **Dirección BTC:** bc1q29emlu2xrdskk9asukck6a6n03d860ggyt7gpc 
 **LLave publica:**   p2wpkh:           KyoG4UTHMQZcq3ejQSmQYhbhXnUf3XZpNsb6GpNp6nuamPSuB1hd         `
