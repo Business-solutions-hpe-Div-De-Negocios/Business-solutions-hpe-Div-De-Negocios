@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there Welcome the HPE-Business Solutions /Div of eCommerce & Digital eService👋 page official
 
 <!--
 **Business-solutions-hpe-Div-De-Negocios/Business-solutions-hpe-Div-De-Negocios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Si te gusta lo que hago y quieres invitarme un café o apoyarme, puedes hacerlo 
 
 **Bitcoin Account address**
 
-**Please Copy  **
+ Please Copy  in your Wallet BTC only Thanks
 
 **Dirección BTC:** bc1q29emlu2xrdskk9asukck6a6n03d860ggyt7gpc 
 **LLave publica:**   p2wpkh:           KyoG4UTHMQZcq3ejQSmQYhbhXnUf3XZpNsb6GpNp6nuamPSuB1hd         `
